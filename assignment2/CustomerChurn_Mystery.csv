@@ -1,0 +1,4 @@
+AccountAge,MonthlyCharges,TotalCharges,SubscriptionType,PaymentMethod,PaperlessBilling,ContentType,MultiDeviceAccess,DeviceRegistered,ViewingHoursPerWeek,AverageViewingDuration,ContentDownloadsPerMonth,GenrePreference,UserRating,SupportTicketsPerMonth,Gender,WatchlistSize,ParentalControl,SubtitlesEnabled,CustomerID
+87,19.61634994,1706.622444,Premium,Mailed check,No,Both,Yes,Computer,7.038441588,66.44908897,34,Comedy,2.453891185,1,Male,24,Yes,No,1EH2J8BFVB
+10,8.136900022,81.36900022,Premium,Mailed check,No,TV Shows,Yes,Tablet,31.31390162,17.24960537,2,Sci-Fi,2.777613791,9,Male,18,Yes,No,UPME56AH3D
+54,7.531439706,406.6977441,Premium,Mailed check,No,TV Shows,No,Tablet,30.99456868,21.51824765,26,Fantasy,3.124321233,9,Male,3,Yes,No,A92Y26CQ7Q
