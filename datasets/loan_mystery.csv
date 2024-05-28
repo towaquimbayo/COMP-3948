@@ -1,0 +1,4 @@
+Gender,Age,Income (USD),Income Stability,Profession,Type of Employment,Location,Loan Amount Request (USD),Current Loan Expenses (USD),Expense Type 1,Expense Type 2,Dependents,Credit Score,No. of Defaults,Has Active Credit Card,Property ID,Property Age,Property Type,Property Location,Co-Applicant,Property Price
+F,22,,Low,Working,Laborers,Semi-Urban,104914.23,364.91,N,N,3,695.8,0,Active,23,,1,Semi-Urban,1,148033.51
+M,23,4493.3,Low,Commercial associate,,Semi-Urban,91418.84,532.16,N,Y,2,646.56,0,Inactive,128,4493.3,1,Rural,0,145337.72
+F,18,,Low,Working,Cleaning staff,Rural,43236.1,219.14,N,Y,3,777.74,1,Inactive,12,,4,Rural,1,62748.38

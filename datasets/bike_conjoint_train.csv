@@ -1,0 +1,11 @@
+﻿Rank,gear,bike,Suspension,guards
+1,Has gears,Mountain bike,Suspension,Mudguards
+2,No gears,Mountain bike,Suspension,Mudguards
+3,Has gears,Racing bike,Suspension,Mudguards
+4,No gears,Racing bike,Suspension,Mudguards
+5,Has gears,Mountain bike,No Suspension,Mudguards
+6,No gears,Mountain bike,No Suspension,Mudguards
+7,Has gears,Mountain bike,Suspension,No mudguards
+8,No gears,Mountain bike,Suspension,No mudguards
+9,Has gears,Racing bike,No Suspension,Mudguards
+10,No gears,Racing bike,No Suspension,Mudguards

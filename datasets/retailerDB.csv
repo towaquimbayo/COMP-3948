@@ -1,0 +1,7 @@
+﻿productID,productName,vendor,quantity,price,stockDate
+1,Wonder Bar,Cadbury,11,1.11,2020-10-01
+2,Too too,Toucan Inc.,22,2.22,2020-10-02
+3,Fork,Silverware Inc.,44,4.44,2020-10-04
+4,Fork,Waterford Corp.,34,5.31,2020-10-04
+5,Futon,Sleep Country,NULL,4.32,2020-10-05
+6,Coffee Crisp,Cadbury,9,1.32,2020-10-06
